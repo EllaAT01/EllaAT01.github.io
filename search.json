@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ella Addison-Taylor",
+    "section": "",
+    "text": "Math\nCoding\nTeaching\n\n\n\n\n\nMath Major\nData Science Minor\nCU Denver\n\n\n\n  \n  \n  \n    \n     Email\n  \n  \n    \n     Youtube"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hiking with my dog."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Ella Addison-Taylor",
+    "section": "",
+    "text": "Math\nCoding\nTeaching"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Ella Addison-Taylor",
+    "section": "",
+    "text": "Math Major\nData Science Minor\nCU Denver"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I like to hike with my dog, Bubs, around Colorado. I am pretty good at hiking and have been doing it since I was a kid. I like it because it is peaceful and a good workout.\n\n\n\nMy dog out on a hike"
+  },
+  {
+    "objectID": "hobbies.html#quarto",
+    "href": "hobbies.html#quarto",
+    "title": "hobbies",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "hobbies.html#running-code",
+    "href": "hobbies.html#running-code",
+    "title": "Hobbies",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "hobbies.html#hiking",
+    "href": "hobbies.html#hiking",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I like to hike with my dog, Bubs, around Colorado. I am pretty good at hiking and have been doing it since I was a kid. I like it because it is peaceful and a good workout.\n\n\n\nMy dog out on a hike"
+  },
+  {
+    "objectID": "hobbies.html#video-games",
+    "href": "hobbies.html#video-games",
+    "title": "Hobbies",
+    "section": "Video Games",
+    "text": "Video Games\nI like to play video games. My favorite is Stardew Valley but I also like playing Valorant and Hades. I am okay at video games but I just play them for fun so I don’t try too hard. I like it because it allows me to go on adventures without leaving the comfort of my homes."
+  },
+  {
+    "objectID": "hobbies.html#nail-art",
+    "href": "hobbies.html#nail-art",
+    "title": "Hobbies",
+    "section": "Nail Art",
+    "text": "Nail Art\nI like to use gel nail polish to create cute designs on my own nails. I’m not that good at it yet but I am getting better. I like it because it makes my nails look beautiful and it helps me to relax."
+  }
+]
