@@ -1,0 +1,26 @@
+---
+title: "Ella Addison-Taylor"
+image: me.jpg
+about:
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:ellaaddisontaylor@gmail.com
+    - text: Youtube
+      icon: youtube
+      href: https://www.youtube.com/
+  template: broadside
+  id: ppc
+---
+
+:::{#ppc}
+## Skills
+- Math
+- Coding
+- Teaching
+
+## Education
+- Math Major
+- Data Science Minor
+- CU Denver
+:::
